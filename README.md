@@ -31,3 +31,6 @@ Balanced Random Forest
 Easy Ensemble
 ![](https://github.com/kevin-green58/Credit_Risk_Analysis/blob/main/EE_Balanced_Accuracy.PNG)
 ![](![]https://github.com/kevin-green58/Credit_Risk_Analysis/blob/main/EE_Classification.PNG)
+
+## Summary
+The most accurate model was the Easy Ensemble Classifier. It had the highest accuracy score of all the models used.
